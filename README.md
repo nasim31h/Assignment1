@@ -1,3 +1,3 @@
 # Assignment1
-4Beats-QUPS
+4Beats_Sqa
 https://nasim31h.github.io/Assignment1/
